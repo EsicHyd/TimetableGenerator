@@ -1,0 +1,26 @@
+{
+  "name": "esichyd",
+  "version": "1.0.0",
+  "description": "Website made for Esic Hyderabad by the students HITAM using NodeJs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paritosh and others!",
+  "license": "ISC",
+  "dependencies": {
+    "@sendgrid/mail": "^6.3.1",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "dns": "^0.2.2",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "ip": "^1.1.5",
+    "method-override": "^3.0.0",
+    "moment": "^2.22.2",
+    "mongodb": "^3.1.6",
+    "os": "^0.1.1",
+    "util": "^0.11.0",
+    "winston": "^3.1.0"
+  }
+}

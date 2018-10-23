@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <% var page = "test"%>
+    <% include ../partials/header/head.ejs %>
+    <!-- insert all styling based dependencies dependencies here -->
+</head>
+
+<body>
+    <% include ../partials/header/nav.ejs %>
+
+
+    <!-- write all html here -->
+
+
+
+    <% include ../partials/footer/footer.ejs %>
+
+    <!-- insert all js dependencies here -->
+</body>
+
+</html>
